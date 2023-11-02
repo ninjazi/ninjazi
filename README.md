@@ -4,7 +4,7 @@
 
 ### :woman_technologist: Обо мне :
 
-Являюсь лучшим PHP-разработчиком (по словам моих родителей) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+PHP-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Я работаю Middle php-разработчиком, занимаюсь разработкой внутреннего интерфейса для создания веб-приложений.
 
